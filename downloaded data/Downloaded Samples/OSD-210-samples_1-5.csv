@@ -1,0 +1,6 @@
+﻿Source Name,Sample Name,Characteristics: Organism,Characteristics: Ecotype,Factor Value: Genotype,Characteristics: Age at Harvest,Protocol REF,Parameter Value: MESH Cosmic Radiation,Parameter Value: Sample Storage Temperature
+GSM3426324,GSM3426324,Arabidopsis thaliana,Col-0,"Mutant #1, from the M0 generation of ANT plants",44 day,growth protocol,Antarctica,-20 degree Celsius
+GSM3426325,GSM3426325,Arabidopsis thaliana,Col-0,"Mutant #2, from the M0 generation of ANT plants",45 day,growth protocol,Antarctica,-20 degree Celsius
+GSM3426326,GSM3426326,Arabidopsis thaliana,Col-0,"Mutant #4, from the M0 generation of ANT plants",45 day,growth protocol,BNL simulation,-20 degree Celsius
+GSM3426327,GSM3426327,Arabidopsis thaliana,Col-0,"Mutant #5, from the M0 generation of ANT plants",45 day,growth protocol,BNL simulation,-20 degree Celsius
+GSM3426328,GSM3426328,Arabidopsis thaliana,Col-0,"Mutant Pools #7&8, from the M0 generation of ANT plants",17 and 21 day,growth protocol,Antarctica,-20 degree Celsius

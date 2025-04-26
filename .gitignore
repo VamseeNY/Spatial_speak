@@ -1,0 +1,8 @@
+.env
+test.wav
+temp_test.wav
+configure.py
+__pycache__
+app
+dummy.py
+test.py

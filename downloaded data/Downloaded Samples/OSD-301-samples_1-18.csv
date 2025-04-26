@@ -1,0 +1,19 @@
+﻿Source Name,Sample Name,Characteristics: Organism,Characteristics: cultivar,Characteristics: Ecotype,Comment: Seed lot,Factor Value: Spaceflight,Protocol REF,Protocol REF,Comment: Original Submitted Sample Name,Material Type,Factor Value: Treatment
+Eruca sativa dry seeds Earth-WS replicate 1,Eves_Miller_Seeds_CTRL_noCAAT_Rep1,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Control,sample collection,treatment protocol,SRR12079450,Seeds,CAAT
+Eruca sativa dry seeds Earth-WS replicate 2,Eves_Miller_Seeds_CTRL_noCAAT_Rep2,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Control,sample collection,treatment protocol,SRR12079449,Seeds,CAAT
+Eruca sativa dry seeds Earth-WS replicate 3,Eves_Miller_Seeds_CTRL_noCAAT_Rep3,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Control,sample collection,treatment protocol,SRR12079440,Seeds,CAAT
+Eruca sativa dry seeds Earth replicate 1,Eves_Miller_Seeds_GC_noCAAT_Rep1,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Ground Control,sample collection,treatment protocol,SRR12079439,Seeds,CAAT
+Eruca sativa dry seeds Earth replicate 2,Eves_Miller_Seeds_GC_noCAAT_Rep2,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Ground Control,sample collection,treatment protocol,SRR12079438,Seeds,CAAT
+Eruca sativa dry seeds Earth replicate 3,Eves_Miller_Seeds_GC_noCAAT_Rep3,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Ground Control,sample collection,treatment protocol,SRR12079437,Seeds,CAAT
+Eruca sativa dry seeds Space replicate 1,Eves_Miller_Seeds_FLT_noCAAT_Rep1,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Space Flight,sample collection,treatment protocol,SRR12079436,Seeds,CAAT
+Eruca sativa dry seeds Space replicate 2,Eves_Miller_Seeds_FLT_noCAAT_Rep2,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Space Flight,sample collection,treatment protocol,SRR12079435,Seeds,CAAT
+Eruca sativa dry seeds Space replicate 3,Eves_Miller_Seeds_FLT_noCAAT_Rep3,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Space Flight,sample collection,treatment protocol,SRR12079434,Seeds,CAAT
+Eruca sativa CAAT 15d seeds Earth-WS replicate 1,Eves_Miller_Seeds_CTRL_CAAT_Rep1,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Control,sample collection,treatment protocol,SRR12079433,Seeds,Dry
+Eruca sativa CAAT 15d seeds Earth-WS replicate 2,Eves_Miller_Seeds_CTRL_CAAT_Rep2,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Control,sample collection,treatment protocol,SRR12079448,Seeds,Dry
+Eruca sativa CAAT 15d seeds Earth-WS replicate 3,Eves_Miller_Seeds_CTRL_CAAT_Rep3,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Control,sample collection,treatment protocol,SRR12079447,Seeds,Dry
+Eruca sativa CAAT 15d seeds Earth replicate 1,Eves_Miller_Seeds_GC_CAAT_Rep1,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Ground Control,sample collection,treatment protocol,SRR12079446,Seeds,Dry
+Eruca sativa CAAT 15d seeds Earth replicate 2,Eves_Miller_Seeds_GC_CAAT_Rep2,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Ground Control,sample collection,treatment protocol,SRR12079445,Seeds,Dry
+Eruca sativa CAAT 15d seeds Earth replicate 3,Eves_Miller_Seeds_GC_CAAT_Rep3,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Ground Control,sample collection,treatment protocol,SRR12079444,Seeds,Dry
+Eruca sativa CAAT 15d seeds Space replicate 1,Eves_Miller_Seeds_FLT_CAAT_Rep1,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Space Flight,sample collection,treatment protocol,SRR12079443,Seeds,Dry
+Eruca sativa CAAT 15d seeds Space replicate 2,Eves_Miller_Seeds_FLT_CAAT_Rep2,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Space Flight,sample collection,treatment protocol,SRR12079442,Seeds,Dry
+Eruca sativa CAAT 15d seeds Space replicate 3,Eves_Miller_Seeds_FLT_CAAT_Rep3,Eruca vesicaria,Miller,TZ 5007,Seed lot 09835147,Space Flight,sample collection,treatment protocol,SRR12079441,Seeds,Dry

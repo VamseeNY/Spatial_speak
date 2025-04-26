@@ -1,0 +1,10 @@
+streamlit
+sounddevice
+numpy
+wave
+assemblyai
+requests
+pandas
+langchain
+faiss-cpu
+ollama
