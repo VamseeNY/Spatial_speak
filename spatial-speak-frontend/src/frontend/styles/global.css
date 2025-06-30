@@ -1,0 +1,62 @@
+/* src/styles/globals.css */
+
+/* src/styles/globals.css */
+@font-face {
+  font-family: "Alphacentauri";
+  src: url("/fonts/Alphacentauri-MVY4p.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Define color variables globally */
+:root {
+  --primary-color: #0a192f;
+  --secondary-color: #007bff;
+  --text-color: #ffffff;
+  --accent-color: #4f9deb;
+  --shadow-color: rgba(79, 157, 235, 0.8);
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  background: #0a192f; /* Dark blue */
+  color: #ffffff; /* White text */
+  overflow-x: hidden;
+}
+
+h1,
+h2 {
+  font-family: "Kanit", sans-serif;
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0077ff;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a192f;
+}
+
+/* Universal link styling */
+a {
+  color: #00aaff;
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #4f9deb;
+  text-shadow: 0 0 10px #4f9deb;
+}
+
+/* Smooth transition for all elements */
+* {
+  transition: all 0.3s ease-in-out;
+}

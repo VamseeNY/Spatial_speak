@@ -1,0 +1,107 @@
+/* Page Container */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  width: 100vw;
+  text-align: center;
+  background: #0a192f;
+  color: white;
+}
+
+/* Navigation Bar */
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  background: rgba(0, 15, 50, 0.9);
+  padding: 12px 40px;
+  border-radius: 10px;
+}
+
+.navLink {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
+}
+
+.navLink:hover {
+  color: #4f9deb;
+}
+
+/* Heading */
+.heading {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+/* Subheading */
+.subheading {
+  font-size: 1.5rem;
+  color: #b0c4de;
+}
+
+/* Buttons */
+.primaryButton,
+.secondaryButton {
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  background: #007bff;
+  color: white;
+}
+
+.primaryButton:hover,
+.secondaryButton:hover {
+  transform: scale(1.05);
+}
+
+/* Chatbot Floating Button */
+.chatbotButton {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  font-size: 20px;
+  cursor: pointer;
+}
+/* Card Container */
+.cardContainer {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 40px;
+}
+
+/* Individual Card */
+.card {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  width: 280px;
+  text-align: center;
+  transition: transform 0.3s ease-in-out;
+}
+
+.card h2 {
+  color: white;
+  font-size: 22px;
+}
+
+.card p {
+  color: #b0c4de;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}

@@ -1,0 +1,86 @@
+/* Page Container */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  min-height: 100vh;
+  background: #0a192f;
+  color: white;
+}
+
+/* Heading */
+.heading {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+/* Search Bar */
+.searchBar {
+  width: 60%;
+  padding: 12px;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: none;
+  margin-bottom: 20px;
+}
+
+/* Paper List */
+.paperList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  width: 80%;
+}
+
+/* Individual Paper Card */
+.paperCard {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 15px;
+  border-radius: 8px;
+  width: 280px;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+}
+
+.paperCard:hover {
+  transform: scale(1.05);
+}
+
+/* Modal for Paper Details */
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  background: #1a1a2e;
+  padding: 20px;
+  border-radius: 8px;
+  width: 400px;
+  text-align: center;
+}
+
+.modal a {
+  color: #00aaff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.closeButton {
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+  background: #ff4c4c;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
