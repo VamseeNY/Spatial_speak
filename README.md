@@ -51,5 +51,4 @@ The primary objective of Spatial Speak is to provide researchers with a tool to 
 - `llama_stuff/`: Directory containing reference data and resources for the LLM model.
 
 ## Data Source
-
 Spatial Speak utilizes datasets from NASA's Open Science Data Repository (OSDR), specifically focusing on experiments involving plant root seedlings under spaceflight and high-altitude conditions. These studies provide valuable insights into plant biology in microgravity environments, contributing to the advancement of space agriculture research.
